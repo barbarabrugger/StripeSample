@@ -6,7 +6,7 @@
   "dependencies": {
     "@hono/node-server": "^1.13.1",
     "dotenv": "^16.4.5",
-    "hono": "^4.6.3",
+    "hono": "^4.12.5",
     "my-app": "file:",
     "stripe": "^17.0.0"
   },
